@@ -16,6 +16,6 @@ Clone repository
 View in browser at localhost:4567
 
 ## License
-Copyright (c) 2015 Jeff Seymour
+Copyright (c) 2016 Jeff Seymour
 
 This software is licensed under the MIT license.
