@@ -7,7 +7,7 @@ A small Ruby program takes a user input string and converts it to Title Case.
 Practicing Behavior-Driven Development, and Test-Driven Development methodologies with RSpec.
 
 ## Technologies Used
-HTML, Ruby, rspec, capybara, sinatra
+HTML, Ruby, RSpec, Capybara, Sinatra
 
 ## Setup
 Clone repository  
